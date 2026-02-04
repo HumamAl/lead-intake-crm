@@ -2,7 +2,7 @@ Hi Adam,
 
 I built a working demo of your lead intake and automation system to show you exactly how I'd approach this:
 
-**Live Demo: https://lead-intake-crm.vercel.app**
+**Live Demo: https://lead-intake-crm.vercel.app
 
 The demo includes a public-facing lead intake form (/intake) that captures submissions and feeds them into a full CRM dashboard with real-time stats, lead scoring, and conversion funnel tracking. Your team can view and manage incoming leads in a sortable/filterable table, update statuses through a pipeline (New → Contacted → Qualified → Proposal → Won), and add internal notes on each lead. I've also built out the automation rules engine where you can configure triggers like auto-qualifying high-budget leads, sending welcome emails on submission, round-robin assignment, and follow-up reminders — all with enable/disable toggles.
 
